@@ -1,0 +1,6 @@
+      Category  Score  Percentage Score Max Reaction Type  Max Reaction Percentage
+       animals  74965          7.699418            scared                 6.958355
+       science  71168          7.309440              want                 7.015590
+healthy eating  69339          7.121589             adore                 7.105416
+    technology  68738          7.059863             adore                 7.597173
+          food  66676          6.848081              hate                 7.651560
