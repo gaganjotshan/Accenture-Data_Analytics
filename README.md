@@ -1,5 +1,11 @@
-# Accenture-Data-Analytics-and-Visualization-Internship
+# Accenture North America Data Analytics and Visualization Job Simulation
 
+ * Completed a simulation focused on advising a hypothetical social media client
+   as a Data Analyst at Accenture
+ * Cleaned, modelled and analyzed 7 datasets to uncover insights into content
+   trends to inform strategic decisions
+ * Prepared a PowerPoint deck and video presentation to communicate key insights
+   for the client and internal stakeholders
 
 ## Task - 1
 ### Project Understanding:
@@ -61,9 +67,10 @@ In short, the client wanted to see **“An analysis of their content categories 
   >- Pie Chart
   >- Bar Chart
   
- - Presentation : [Insights](Data Analytics template - Task 3_final.pdf)
+ - Presentation : [Insights](Presentation-Task3.pdf)
  
  ## Task - 4
  ### Present to the Client:
- **Present your powerpoint presentation to the client and deliver the insights of your analysis** 
+ **Presented insights of the analysis to the client.** 
  
+# [Certificate](AccentureNorthAmerica-DataAnalyst_certificate.pdf)
